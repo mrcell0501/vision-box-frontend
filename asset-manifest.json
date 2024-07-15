@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vision-box-frontend/static/css/main.ba487388.css",
-    "main.js": "/vision-box-frontend/static/js/main.dd3c5131.js",
+    "main.js": "/vision-box-frontend/static/js/main.4120b95f.js",
     "static/js/453.eca8eb4f.chunk.js": "/vision-box-frontend/static/js/453.eca8eb4f.chunk.js",
     "index.html": "/vision-box-frontend/index.html",
     "main.ba487388.css.map": "/vision-box-frontend/static/css/main.ba487388.css.map",
-    "main.dd3c5131.js.map": "/vision-box-frontend/static/js/main.dd3c5131.js.map",
+    "main.4120b95f.js.map": "/vision-box-frontend/static/js/main.4120b95f.js.map",
     "453.eca8eb4f.chunk.js.map": "/vision-box-frontend/static/js/453.eca8eb4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba487388.css",
-    "static/js/main.dd3c5131.js"
+    "static/js/main.4120b95f.js"
   ]
 }
