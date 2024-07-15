@@ -3,7 +3,7 @@ import { User } from "../types/user";
 import { CreateUser } from "../types/create-user";
 
 const api = axios.create({
-  baseURL: "https://localhost:32768/api",
+  baseURL: process.env.REACT_APP_USERS_API_HOST,
 });
 
 export const getUsers = async () => {
